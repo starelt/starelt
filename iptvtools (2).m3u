@@ -1,527 +1,313 @@
 #EXTM3U
-#EXTINF:-1,StarELT_1
+#EXTINF:-1,StarELTdo_1 tvg-logo="https://i.imgur.com/7oNe8xj.png" group-title="General",002 Radio TV (720p)
 https://cdn.002radio.com:3909/live/radio002live.m3u8
-#EXTINF:-1,StarELT_2
-https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
-#EXTINF:-1,StarELT_3
+#EXTINF:-1,StarELTdo_5 tvg-logo="https://i.imgur.com/DBvm7YS.png
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
-#EXTINF:-1,StarELT_4
+#EXTINF:-1,StarELTdo_6 https://i.imgur.com/O6USO8r.png
 https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
-#EXTINF:-1,StarELT_5
+#EXTINF:-1,StarELTdo_7 https://i.imgur.com/MUEbjeP.png
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
-#EXTINF:-1,StarELT_6
+#EXTINF:-1,StarELTdo_12 https://i.ibb.co/WkMfnGs/Channels4-profile-8.jpg
 https://samson.streamerr.co:8081/rudydurisimotv/index.m3u8
-#EXTINF:-1,StarELT_7
+#EXTINF:-1,StarELTdo_13 https://i.imgur.com/I2wRq88.png
 https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
-#EXTINF:-1,StarELT_8
+#EXTINF:-1,StarELTdo_15 https://i.imgur.com/GyZQCjq.png
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
+#EXTINF:-1,StarELTdo_16 https://i.imgur.com/GyZQCjq.png
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
+#EXTINF:-1,StarELTdo_17 https://i.imgur.com/XqQ3kCs.png
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
-#EXTINF:-1,StarELT_9
+#EXTINF:-1,StarELTdo_19 tvg-logo="https://i.imgur.com/Kp8x0NS.png
 https://ss5.domint.net:3172/btv_str/bonchestv/playlist.m3u8
-#EXTINF:-1,StarELT_10
+#EXTINF:-1,StarELTdo_20 tvg-logo="https://i.imgur.com/KSquHTG.png"
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
-#EXTINF:-1,StarELT_11
+#EXTINF:-1,StarELTdo_21 tvg-logo="https://i.imgur.com/2GAEWhn.png
 https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
-#EXTINF:-1,StarELT_12
+#EXTINF:-1,StarELTdo_22 https://i.imgur.com/k8jxt12.png
 https://livetv.305streamhd.com:3707/live/canatvdigitallive.m3u8
-#EXTINF:-1,StarELT_13
+#EXTINF:-1,StarELTdo_23 tvg-logo="https://i.imgur.com/eiqpffH.png
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
-#EXTINF:-1,StarELT_14
+#EXTINF:-1,StarELTdo_24 https://i.imgur.com/lmWu73V.png
 https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
-#EXTINF:-1,StarELT_15
+#EXTINF:-1,StarELTdo_25 https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png
+https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+#EXTINF:-1,StarELTdo_26 https://i.imgur.com/HcLs5eM.png
 https://cdn5.streamgato.us:3371/live/canal56live.m3u8
-#EXTINF:-1,StarELT_16
+#EXTINF:-1,StarELTdo_27 https://i.imgur.com/iKLGBbA.png
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
-#EXTINF:-1,StarELT_17
+#EXTINF:-1,StarELTdo_28 https://caribbeanadvantage.com/images/CAtv-logo-512.png
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
-#EXTINF:-1,StarELT_18
+#EXTINF:-1,StarELTdo_29 https://i.imgur.com/8J3oyfq.png
 https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
-#EXTINF:-1,StarELT_19
+#EXTINF:-1,StarELTdo_30 https://i.imgur.com/XjGb2UM.png
 https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
-#EXTINF:-1,StarELT_20
+#EXTINF:-1,StarELTdo_34 https://i.imgur.com/DEUR7mB.png
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
-#EXTINF:-1,StarELT_21
+#EXTINF:-1,StarELTdo_35 https://i.imgur.com/gBbLyqh.png
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1,StarELT_22
+#EXTINF:-1,StarELTdo_36 https://i.imgur.com/eQyjIgf.png
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
-#EXTINF:-1,StarELT_23
+#EXTINF:-1,StarELTdo_37 https://i.imgur.com/Poz3xfi.png
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1,StarELT_24
+#EXTINF:-1,StarELTdo_39 https://i.imgur.com/iHjdckl.png
 https://vsrv2.az-streamingserver.com:3958/live/cibaenatvlive.m3u8
-#EXTINF:-1,StarELT_25
+#EXTINF:-1,StarELTdo_40 https://i.imgur.com/2PNw6BA.png
 https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
-#EXTINF:-1,StarELT_26
+#EXTINF:-1,StarELTdo_42 https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg
 https://rdn.essastream.com:3996/live/citricotvlive.m3u8
-#EXTINF:-1,StarELT_27
+#EXTINF:-1,StarELTdo_45 https://i.imgur.com/fJD7OxB.png
+https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8
+#EXTINF:-1,StarELTdo_46 https://i.imgur.com/MpTgJMJ.png
 https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
-#EXTINF:-1,StarELT_28
+#EXTINF:-1,StarELTdo_48 https://i.imgur.com/CnAc7jU.png
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-#EXTINF:-1,StarELT_29
+#EXTINF:-1,StarELTdo_50 https://i.imgur.com/4uV90gw.png
 https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
-#EXTINF:-1,StarELT_30
+#EXTINF:-1,StarELTdo_52 https://i.imgur.com/jk1lkOV.png
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
-#EXTINF:-1,StarELT_31
+#EXTINF:-1,StarELTdo_57 https://i.imgur.com/aksM8pa.png
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1,StarELT_32
+#EXTINF:-1,StarELTdo_58 https://i.imgur.com/MMhSmDK.png
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-#EXTINF:-1,StarELT_33
+#EXTINF:-1,StarELTdo_59 https://i.imgur.com/v3mkmZa.png
 http://51.81.93.29:8084/hls/d15.m3u8
-#EXTINF:-1,StarELT_34
+#EXTINF:-1,StarELTdo_60 https://i.imgur.com/NKdV8b1.png
 https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
-#EXTINF:-1,StarELT_35
+#EXTINF:-1,StarELTdo_62 https://i.imgur.com/BVsotpP.png
 https://cloud2.streaminglivehd.com:19360/8062/8062.m3u8
-#EXTINF:-1,StarELT_36
+#EXTINF:-1,StarELTdo_64 https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
-#EXTINF:-1,StarELT_37
+#EXTINF:-1,StarELTdo_66 https://i.imgur.com/6SsaKEh.png
 https://srv2.tropicalmoonmedia.com/dreamforcebtltv/dreamforcebtltv/playlist.m3u8
-#EXTINF:-1,StarELT_38
+#EXTINF:-1,StarELTdo_67 https://i.imgur.com/A1xzjOI.png
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1,StarELT_39
-https://livecdn.enlace.plus/enlace/smil:enlace-fhd.smil/playlist.m3u8
-#EXTINF:-1,StarELT_40
+#EXTINF:-1,StarELTdo_72 https://i.imgur.com/YwUVTmS.png
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1,StarELTdo_73 https://i.imgur.com/nePOFZW.png
 https://rdn.essastream.com:3356/live/enntivisiontvlive.m3u8
-#EXTINF:-1,StarELT_41
+#EXTINF:-1,StarELTdo_74 https://i.imgur.com/gVtLpMD.png
 https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
-#EXTINF:-1,StarELT_42
+#EXTINF:-1,StarELTdo_75 https://i.imgur.com/OprRgQN.png
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:-1,StarELT_43
+#EXTINF:-1,StarELTdo_77 https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1,StarELT_44
+#EXTINF:-1,StarELTdo_78 https://i.imgur.com/YtdOXWb.png
 https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
-#EXTINF:-1,StarELT_45
+#EXTINF:-1,StarELTdo_79 https://i.imgur.com/DTRPV6B.png
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,StarELT_46
+#EXTINF:-1,StarELTdo_80 https://i.imgur.com/ZnmAXVv.png
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1,StarELT_47
+#EXTINF:-1,StarELTdo_82 https://i.imgur.com/vPxvbVv.png
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1,StarELT_48
-https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
-#EXTINF:-1,StarELT_49
-https://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1,StarELT_50
+#EXTINF:-1,StarELTdo_86 https://i.imgur.com/3J6Y08E.png
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1,StarELT_51
+#EXTINF:-1,StarELTdo_87 https://i.imgur.com/sroIZuc.png
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
-#EXTINF:-1,StarELT_52
+#EXTINF:-1,StarELTdo_88 https://i.imgur.com/xhkiiO3.png
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
-#EXTINF:-1,StarELT_53
+#EXTINF:-1,StarELTdo_89 https://i.imgur.com/SlSbcp3.png
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-#EXTINF:-1,StarELT_54
+#EXTINF:-1,StarELTdo_92 https://i.imgur.com/PBgQi9a.png
 https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
-#EXTINF:-1,StarELT_55
+#EXTINF:-1,StarELTdo_93 https://i.imgur.com/eoodUNJ.png
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
-#EXTINF:-1,StarELT_56
+#EXTINF:-1,StarELTdo_95 https://i.imgur.com/E7ta6g8.png
 https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
-#EXTINF:-1,StarELT_57
+#EXTINF:-1,StarELTdo_96 https://i.imgur.com/CBbbrkI.png
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
-#EXTINF:-1,StarELT_58
+#EXTINF:-1,StarELTdo_99 https://i.imgur.com/0WBsAin.png
 https://vdo1.streamgato.us:3833/live/canalhtvlivelive.m3u8
-#EXTINF:-1,StarELT_59
+#EXTINF:-1,StarELTdo_100 https://i.imgur.com/DP6HmDV.png
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:-1,StarELT_60
+#EXTINF:-1,StarELTdo_102 https://i.imgur.com/WIeZMKT.png
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1,StarELT_61
+#EXTINF:-1,StarELTdo_103 https://i.imgur.com/EfMtOja.png
 https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8
-#EXTINF:-1,StarELT_62
+#EXTINF:-1,StarELTdo_104 https://i.imgur.com/XIwTM1h.png
 https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
-#EXTINF:-1,StarELT_63
+#EXTINF:-1,StarELTdo_105 https://i.imgur.com/Zv8CxZX.png
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
-#EXTINF:-1,StarELT_64
+#EXTINF:-1,StarELTdo_106 https://i.imgur.com/DKDFpHt.png
 https://ss2.domint.net:3226/vttv_str/tropicotv/playlist.m3u8
-#EXTINF:-1,StarELT_65
+#EXTINF:-1,StarELTdo_107 https://i.imgur.com/g5ShxZ7.png
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1,StarELT_66
+#EXTINF:-1,StarELTdo_108 https://i.imgur.com/UAfyeYT.png
 https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
-#EXTINF:-1,StarELT_67
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1,StarELT_68
+#EXTINF:-1,StarELTdo_112 https://i.imgur.com/twldaaC.png
 https://ss3.domint.net:3138/mtv_str/maimon/playlist.m3u8
-#EXTINF:-1,StarELT_69
+#EXTINF:-1,StarELTdo_113 https://i.imgur.com/asD5y7i.png
 https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
-#EXTINF:-1,StarELT_70
-http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
-#EXTINF:-1,StarELT_71
+#EXTINF:-1,StarELTdo_116 https://i.imgur.com/RWC55w7.png
 https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
-#EXTINF:-1,StarELT_72
-https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/playlist.m3u8
-#EXTINF:-1,StarELT_73
+#EXTINF:-1,StarELTdo_119 https://i.imgur.com/wMl1fNZ.png
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
-#EXTINF:-1,StarELT_74
-https://ss2.domint.net:3204/mitv_str/mitv/playlist.m3u8
-#EXTINF:-1,StarELT_75
+#EXTINF:-1,StarELTdo_123 https://i.imgur.com/e38DNzI.png
 https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
-#EXTINF:-1,StarELT_76
+#EXTINF:-1,StarELTdo_124 https://i.imgur.com/wMse6cT.png
+https://soportedvb.click:3827/live/musavisiontvlive.m3u8
+#EXTINF:-1,StarELTdo_125 https://i.imgur.com/g7iFN3s.png
 https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
-#EXTINF:-1,StarELT_77
+#EXTINF:-1,StarELTdo_126
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
-#EXTINF:-1,StarELT_78
-https://250weu.bozztv.com/ssh101/ssh101/nisibontv48/playlist.m3u8
-#EXTINF:-1,StarELT_79
+#EXTINF:-1,StarELTdo_129
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
-#EXTINF:-1,StarELT_80
+#EXTINF:-1,StarELTdo_130
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1,StarELT_81
+#EXTINF:-1,StarELTdo_131
 https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
-#EXTINF:-1,StarELT_82
+#EXTINF:-1,StarELTdo_132
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1,StarELT_83
+#EXTINF:-1,StarELTdo_134
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-#EXTINF:-1,StarELT_84
+#EXTINF:-1,StarELTdo_135
+https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
+#EXTINF:-1,StarELTdo_138
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:-1,StarELT_85
+#EXTINF:-1,StarELTdo_140
 https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
-#EXTINF:-1,StarELT_86
+#EXTINF:-1,StarELTdo_141
+https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
+#EXTINF:-1,StarELTdo_144
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1,StarELT_87
+#EXTINF:-1,StarELTdo_145
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1,StarELT_88
+#EXTINF:-1,StarELTdo_147
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
-#EXTINF:-1,StarELT_89
+#EXTINF:-1,StarELTdo_148
 https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8
-#EXTINF:-1,StarELT_90
-https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
-#EXTINF:-1,StarELT_91
+#EXTINF:-1,StarELTdo_151
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
-#EXTINF:-1,StarELT_92
+#EXTINF:-1,StarELTdo_152
 https://ss5.domint.net:3038/rum_str/rumba985fm/playlist.m3u8
-#EXTINF:-1,StarELT_93
+#EXTINF:-1,StarELTdo_153
 https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8
-#EXTINF:-1,StarELT_94
+#EXTINF:-1,StarELTdo_155
 https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
-#EXTINF:-1,StarELT_95
+#EXTINF:-1,StarELTdo_164
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
-#EXTINF:-1,StarELT_96
+#EXTINF:-1,StarELTdo_165
 https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
-#EXTINF:-1,StarELT_97
+#EXTINF:-1,StarELTdo_166
 https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8
-#EXTINF:-1,StarELT_98
+#EXTINF:-1,StarELTdo_167
 https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
-#EXTINF:-1,StarELT_99
+#EXTINF:-1,StarELTdo_168
+https://ss2.domint.net:3236/stv_str/supertv55/playlist.m3u8
+#EXTINF:-1,StarELTdo_169
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1,StarELT_100
+#EXTINF:-1,StarELTdo_171
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
-#EXTINF:-1,StarELT_101
-https://5790d294af2dc.streamlock.net/telealtura/telealtura/playlist.m3u8
-#EXTINF:-1,StarELT_102
+#EXTINF:-1,StarELTdo_173
 https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
-#EXTINF:-1,StarELT_103
+#EXTINF:-1,StarELTdo_174
 https://rdn.essastream.com:3258/live/telecanal12live.m3u8
-#EXTINF:-1,StarELT_104
+#EXTINF:-1,StarELTdo_180
 https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
-#EXTINF:-1,StarELT_105
+#EXTINF:-1,StarELTdo_181
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-#EXTINF:-1,StarELT_106
+#EXTINF:-1,StarELTdo_182
 https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
-#EXTINF:-1,StarELT_107
+#EXTINF:-1,StarELTdo_183
 https://vpss2003.streamprolive.com/hls/live.m3u8
-#EXTINF:-1,StarELT_108
+#EXTINF:-1,StarELTdo_184
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
-#EXTINF:-1,StarELT_109
+#EXTINF:-1,StarELTdo_185
 http://51.81.93.239:8084/hls/tmicro.m3u8
-#EXTINF:-1,StarELT_110
+#EXTINF:-1,StarELTdo_191
 https://angelistic.live:3785/live/tvoficiallive.m3u8
-#EXTINF:-1,StarELT_111
+#EXTINF:-1,StarELTdo_192
 https://cdn5.streamgato.us:3315/live/telesantodomingolive.m3u8
-#EXTINF:-1,StarELT_112
+#EXTINF:-1,StarELTdo_194
 https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
-#EXTINF:-1,StarELT_113
+#EXTINF:-1,StarELTdo_195
+https://ss3.domint.net:3124/tls_str/telesur/playlist.m3u8
+#EXTINF:-1,StarELTdo_196
 https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8
-#EXTINF:-1,StarELT_114
-http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
-#EXTINF:-1,StarELT_115
+#EXTINF:-1,StarELTdo_198
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
-#EXTINF:-1,StarELT_116
+#EXTINF:-1,StarELTdo_202
 https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:-1,StarELT_117
+#EXTINF:-1,StarELTdo_203
 https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8
-#EXTINF:-1,StarELT_118
+#EXTINF:-1,StarELTdo_206
 https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
-#EXTINF:-1,StarELT_119
+#EXTINF:-1,StarELTdo_207
 https://srv2.tropicalmoonmedia.com/eventostv/eventostv/playlist.m3u8
-#EXTINF:-1,StarELT_120
+#EXTINF:-1,StarELTdo_208
 https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
-#EXTINF:-1,StarELT_121
+#EXTINF:-1,StarELTdo_209
 https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
-#EXTINF:-1,StarELT_122
+#EXTINF:-1,StarELTdo_210
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
-#EXTINF:-1,StarELT_123
+#EXTINF:-1,StarELTdo_211
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-#EXTINF:-1,StarELT_124
+#EXTINF:-1,StarELTdo_212
 https://cloud2.streaminglivehd.com:1936/8024/8024/playlist.m3u8
-#EXTINF:-1,StarELT_125
+#EXTINF:-1,StarELTdo_213
 https://rdn.essastream.com:3388/live/dajatvlive.m3u8
-#EXTINF:-1,StarELT_126
+#EXTINF:-1,StarELTdo_215
 https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
-#EXTINF:-1,StarELT_127
+#EXTINF:-1,StarELTdo_216
 https://rdn.essastream.com:3307/live/tvluzlive.m3u8
-#EXTINF:-1,StarELT_128
+#EXTINF:-1,StarELTdo_217
 https://ss5.domint.net:3064/tvm_str/montanatv/playlist.m3u8
-#EXTINF:-1,StarELT_129
+#EXTINF:-1,StarELTdo_218
+https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
+#EXTINF:-1,StarELTdo_219
 https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
-#EXTINF:-1,StarELT_130
+#EXTINF:-1,StarELTdo_221
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:-1,StarELTdo_222
 https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8?DVR=
-#EXTINF:-1,StarELT_131
+#EXTINF:-1,StarELTdo_223
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/9b8beac9026c450fb81ed895539c4665/index.m3u8
-#EXTINF:-1,StarELT_132
+#EXTINF:-1,StarELTdo_224
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1b6bbade53634f5a847b953c9adfd102/index.m3u8
-#EXTINF:-1,StarELT_133
+#EXTINF:-1,StarELTdo_227
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
-#EXTINF:-1,StarELT_134
+#EXTINF:-1,StarELTdo_228
 https://tv.essastream.com:3591/live/vallenuevotvlive.m3u8
-#EXTINF:-1,StarELT_135
+#EXTINF:-1,StarELTdo_229
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
-#EXTINF:-1,StarELT_136
+#EXTINF:-1,StarELTdo_230
 https://kali.vdopanel.com:3396/live/arseniolive.m3u8
-#EXTINF:-1,StarELT_137
+#EXTINF:-1,StarELTdo_231
 https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
-#EXTINF:-1,StarELT_138
+#EXTINF:-1,StarELTdo_234
 https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
-#EXTINF:-1,StarELT_139
+#EXTINF:-1,StarELTdo_236
 https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
-#EXTINF:-1,StarELT_140
+#EXTINF:-1,StarELTdo_237
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
-#EXTINF:-1,StarELT_141
+#EXTINF:-1,StarELTdo_238
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
-#EXTINF:-1,StarELT_142
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/10
-#EXTINF:-1,StarELT_143
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/11
-#EXTINF:-1,StarELT_144
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/12
-#EXTINF:-1,StarELT_145
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/13
-#EXTINF:-1,StarELT_146
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/14
-#EXTINF:-1,StarELT_147
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/15
-#EXTINF:-1,StarELT_148
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/16
-#EXTINF:-1,StarELT_149
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/17
-#EXTINF:-1,StarELT_150
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/18
-#EXTINF:-1,StarELT_151
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/19
-#EXTINF:-1,StarELT_152
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/20
-#EXTINF:-1,StarELT_153
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/21
-#EXTINF:-1,StarELT_154
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/22
-#EXTINF:-1,StarELT_155
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/23
-#EXTINF:-1,StarELT_156
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/24
-#EXTINF:-1,StarELT_157
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/25
-#EXTINF:-1,StarELT_158
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/26
-#EXTINF:-1,StarELT_159
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/27
-#EXTINF:-1,StarELT_160
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/29
-#EXTINF:-1,StarELT_161
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/30
-#EXTINF:-1,StarELT_162
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/31
-#EXTINF:-1,StarELT_163
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/32
-#EXTINF:-1,StarELT_164
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/33
-#EXTINF:-1,StarELT_165
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/35
-#EXTINF:-1,StarELT_166
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/36
-#EXTINF:-1,StarELT_167
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/37
-#EXTINF:-1,StarELT_168
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/38
-#EXTINF:-1,StarELT_169
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/39
-#EXTINF:-1,StarELT_170
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/40
-#EXTINF:-1,StarELT_171
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/41
-#EXTINF:-1,StarELT_172
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/42
-#EXTINF:-1,StarELT_173
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/43
-#EXTINF:-1,StarELT_174
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/44
-#EXTINF:-1,StarELT_175
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/45
-#EXTINF:-1,StarELT_176
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/46
-#EXTINF:-1,StarELT_177
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/47
-#EXTINF:-1,StarELT_178
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/48
-#EXTINF:-1,StarELT_179
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/49
-#EXTINF:-1,StarELT_180
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/50
-#EXTINF:-1,StarELT_181
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/51
-#EXTINF:-1,StarELT_182
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/52
-#EXTINF:-1,StarELT_183
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/54
-#EXTINF:-1,StarELT_184
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/56
-#EXTINF:-1,StarELT_185
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/57
-#EXTINF:-1,StarELT_186
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/58
-#EXTINF:-1,StarELT_187
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/59
-#EXTINF:-1,StarELT_188
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/61
-#EXTINF:-1,StarELT_189
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/62
-#EXTINF:-1,StarELT_190
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/64
-#EXTINF:-1,StarELT_191
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/67
-#EXTINF:-1,StarELT_192
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/68
-#EXTINF:-1,StarELT_193
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/69
-#EXTINF:-1,StarELT_194
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/71
-#EXTINF:-1,StarELT_195
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/96
-#EXTINF:-1,StarELT_196
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/98
-#EXTINF:-1,StarELT_197
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/99
-#EXTINF:-1,StarELT_198
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/100
-#EXTINF:-1,StarELT_199
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/101
-#EXTINF:-1,StarELT_200
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/102
-#EXTINF:-1,StarELT_201
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/103
-#EXTINF:-1,StarELT_202
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/104
-#EXTINF:-1,StarELT_203
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/157
-#EXTINF:-1,StarELT_204
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/159
-#EXTINF:-1,StarELT_205
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/162
-#EXTINF:-1,StarELT_206
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/163
-#EXTINF:-1,StarELT_207
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/164
-#EXTINF:-1,StarELT_208
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/165
-#EXTINF:-1,StarELT_209
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/166
-#EXTINF:-1,StarELT_210
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/167
-#EXTINF:-1,StarELT_211
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/168
-#EXTINF:-1,StarELT_212
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/169
-#EXTINF:-1,StarELT_213
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/170
-#EXTINF:-1,StarELT_214
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/171
-#EXTINF:-1,StarELT_215
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/172
-#EXTINF:-1,StarELT_216
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/173
-#EXTINF:-1,StarELT_217
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/175
-#EXTINF:-1,StarELT_218
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/176
-#EXTINF:-1,StarELT_219
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/177
-#EXTINF:-1,StarELT_220
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/180
-#EXTINF:-1,StarELT_221
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/181
-#EXTINF:-1,StarELT_222
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/182
-#EXTINF:-1,StarELT_223
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/183
-#EXTINF:-1,StarELT_224
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/184
-#EXTINF:-1,StarELT_225
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/310
-#EXTINF:-1,StarELT_226
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/340
-#EXTINF:-1,StarELT_227
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/477
-#EXTINF:-1,StarELT_228
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/479
-#EXTINF:-1,StarELT_229
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/480
-#EXTINF:-1,StarELT_230
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/481
-#EXTINF:-1,StarELT_231
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/482
-#EXTINF:-1,StarELT_232
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/483
-#EXTINF:-1,StarELT_233
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/485
-#EXTINF:-1,StarELT_234
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/489
-#EXTINF:-1,StarELT_235
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/490
-#EXTINF:-1,StarELT_236
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/491
-#EXTINF:-1,StarELT_237
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/492
-#EXTINF:-1,StarELT_238
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/493
-#EXTINF:-1,StarELT_239
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/494
-#EXTINF:-1,StarELT_240
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/495
-#EXTINF:-1,StarELT_241
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/496
-#EXTINF:-1,StarELT_242
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/497
-#EXTINF:-1,StarELT_243
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/498
-#EXTINF:-1,StarELT_244
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/499
-#EXTINF:-1,StarELT_245
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/500
-#EXTINF:-1,StarELT_246
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/501
-#EXTINF:-1,StarELT_247
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/502
-#EXTINF:-1,StarELT_248
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/505
-#EXTINF:-1,StarELT_249
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/508
-#EXTINF:-1,StarELT_250
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/510
-#EXTINF:-1,StarELT_251
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/515
-#EXTINF:-1,StarELT_252
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/517
-#EXTINF:-1,StarELT_253
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/521
-#EXTINF:-1,StarELT_254
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/522
-#EXTINF:-1,StarELT_255
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/526
-#EXTINF:-1,StarELT_256
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/530
-#EXTINF:-1,StarELT_257
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/535
-#EXTINF:-1,StarELT_258
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/570
-#EXTINF:-1,StarELT_259
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/573
-#EXTINF:-1,StarELT_260
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/600
-#EXTINF:-1,StarELT_261
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/680
-#EXTINF:-1,StarELT_262
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/681
-#EXTINF:-1,StarELT_263
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/682
+#EXTINF:-1,StarELTdo_239
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:-1,StarELTdo_240
+https://moonbug-rokuus.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1,StarELTdo_250
+http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQv3-LynuF66pQqN8XdK05LGK1y__GEzXRq7mlcZpr7RP
+#EXTINF:-1,StarELTdo_251
+http://offshore.lat:8080/play/bq1kcP4wdruyKPjdxr4WQv3-LynuF66pQqN8XdK05LHa36S2tsLI_L6thpD27jQe
+#EXTINF:-1,StarELTdo_252
+https://linear-489.frequency.stream/mt/studio/489/hls/master/playlist.m3u8
+#EXTINF:-1,StarELTdo_255
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1,StarELTdo_256
+https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
+#EXTINF:-1,StarELTdo_257
+https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
+#EXTINF:-1,StarELTdo_258
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-1,StarELTdo_259
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+#EXTINF:-1,StarELTdo_261
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+#EXTINF:-1,StarELTdo_264
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
+#EXTINF:-1,StarELTdo_265
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8
+#EXTINF:-1,StarELTdo_266
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
+#EXTINF:-1,StarELTdo_267
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_HD.smil/manifest.m3u8
