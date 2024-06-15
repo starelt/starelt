@@ -212,3 +212,5 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://ythls.armelin.one/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
 #EXTINF:-1 group-title="Bics Extra Latino", TELEMUNDO
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/114358
+#EXTINF:-1 group-title="Bics Extra Latino", SV: CANAL 57
+https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
