@@ -181,3 +181,32 @@ https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-id="ZTV.do" tvg-logo="https://i.imgur.com/7F4jQ13.png" group-title="Undefined",ZTV (720p) [Not 24/7]
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
+https://i.mjh.nz/SamsungTVPlus/INBA5100031R2.m3u8
+https://i.mjh.nz/SamsungTVPlus/FRBD5100002NL.m3u8
+#EXTINF:-1 channel-id="pluto-6095ad97351eb0000754c1e6" tvg-id="6095ad97351eb0000754c1e6" tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" tvg-chno="443" group-title="Competencia" , Hells Kitchen
+https://r.mjh.nz/PlutoTV/6095ad97351eb0000754c1e6-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5ddc266f80e3550009136843" tvg-id="5ddc266f80e3550009136843" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" tvg-chno="489" group-title="Curiosidad" , Pluto TV Aventura
+https://r.mjh.nz/PlutoTV/5ddc266f80e3550009136843-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dd6dc7480e3550009133d4a" tvg-id="5dd6dc7480e3550009133d4a" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" tvg-chno="500" group-title="Curiosidad" , Pluto TV Velocidad
+https://r.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
+https://r.mjh.nz/PlutoTV/62b218fc511d4b00070ddc0c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6322099c822bbc00074857db" tvg-id="6322099c822bbc00074857db" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" tvg-chno="1465" group-title="Kids" , Los Padrinos Mágicos
+https://r.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6254598f5083f800076d8563" tvg-id="6254598f5083f800076d8563" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" tvg-chno="1460" group-title="Kids" , Bob Esponja Pantalones Cuadrados
+https://r.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
+#EXTINF:-1 channel-id="pluto-645952687cb4b100084ed52e" tvg-id="645952687cb4b100084ed52e" tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png" tvg-chno="1455" group-title="Kids" , Nickelodeon Pluto TV
+https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6202ab549654c800076ee13f" tvg-id="6202ab549654c800076ee13f" tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" tvg-chno="1450" group-title="Kids" , Nickelodeon Rocket Power
+https://r.mjh.nz/PlutoTV/6202ab549654c800076ee13f-alt.m3u8
+https://r.mjh.nz/PlutoTV/5f29ada4bdaebd000708d49d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-633dc8684bf50b00074a46b1" tvg-id="633dc8684bf50b00074a46b1" tvg-logo="https://images.pluto.tv/channels/633dc8684bf50b00074a46b1/colorLogoPNG.png" tvg-chno="1004" group-title="Comedia" , Backdoor
+https://r.mjh.nz/PlutoTV/633dc8684bf50b00074a46b1-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65df72db18036500081a8292" tvg-id="65df72db18036500081a8292" tvg-logo="https://images.pluto.tv/channels/65df72db18036500081a8292/colorLogoPNG.png" tvg-chno="925" group-title="South Park" , South Park: Colección Stan
+https://r.mjh.nz/PlutoTV/65df72db18036500081a8292-alt.m3u8
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Movies;Series",HBO 2 Latin America
+http://170.254.18.106/HBO2/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas Latin America (720p)
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="TelevisaAguascalientes.mx" tvg-logo="https://i.imgur.com/etScPo0.png" group-title="Undefined",Televisa Aguascalientes (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
