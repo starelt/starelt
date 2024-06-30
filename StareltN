@@ -163,8 +163,6 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", PEQUE radios
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", NOVELAS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=7503&deviceDNT=0&deviceModel=0
 #EXTINF:-1 tvg-id="PE | Planeta TV" tvg-name="PE | Planeta TV" tvg-logo="https://pbs.twimg.com/media/GIQ--qBWkAAUYm7?format=png&name =pequeño" group-title="LOCALES", 16 | Planeta TV || Moyobamba
 https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Millenium TV" tvg-name="PE | Millenium TV" tvg-logo="https://play-lh.googleusercontent.com/uTetNKtedjE1JM0TYr8bL4accz8BdnDHPHqwM7d35DpnOTMV2Oz7ZJtIGb5vUW6d3ZSt=w240-h480-rw" título-grupo="PROVINCIALES", 37 | Televisión del Milenio || lamas
