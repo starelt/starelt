@@ -176,3 +176,5 @@ https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 https://live-b.cf.dmcdn.net/sec2(mz4M78rYckiwaJGIyhAGsNJKLd3w6-yc4ibT3bCcWkZ88ZEQBdPIGQDs2OSXSqxn8ZGwKOkpnqcVHoD3xxAd6jfGGdv9vykgOk8fv_3T4p4)/dm/3/x80ac48/d/live-0.m3u8
 #EXTINF:-1 tvg-id="colorvision"
 https://live-b.cf.dmcdn.net/sec2(SQljcDMHUPJ0vtp-4xG5IUYYcbNRmECuSZx13jlmxxoTjowgbjiC6W87gyB4-DYWrPmbA2vi4vd806tKNmkcNaMTtjuvGzRdnZGQr-5nLNg)/dm/3/x7gy059/d/live-0.m3u8
+#EXTINF:-1 tvg-id="cantena7"
+https://alba-do-antena7-antena7.stream.mediatiquestream.com/original.m3u8
