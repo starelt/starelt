@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CL | TV variada" tvg-name="CL | TV variada" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrQBY8FAi- uiwIRZmNA7yOr1cMK1MRSi8h0Etx0EKfkIR3WEUPxPdNHkNAuNKKLTQ5f0w&usqp=CAU" group-title="INFANTILES", 129 | TV variada
-http://192.168.1.168/2.m3u8
 #EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/7oNe8xj.png" group-title="General",002 Radio TV (720p)
 https://cdn.002radio.com:3909/live/radio002live.m3u8
 #EXTINF:-1 tvg-id="Agenda56TV.do" tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="General",Agenda 56 (720p)
@@ -192,44 +190,11 @@ https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304306
 #EXTINF:-1 tvg-id="StarELT"
 http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304305
-#EXTINF:-1 tvg-id="StarELTjonatan"
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304304
-#EXTINF:-1 tvg-id="StarELTjonatan"
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304303
-#EXTINF:-1 tvg-id="StarELTjonatan2"
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304301
-#EXTINF:-1 tvg-id="StarELTjonatan3
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304299
-#EXTINF:-1 tvg-id="StarELTjonatan4
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304297
-#EXTINF:-1 tvg-id="StarELTjonatan5
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304292
-#EXTINF:-1 tvg-id="StarELTjonatan6
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304291
-#EXTINF:-1 tvg-id="StarELTjonatan7
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304290
-#EXTINF:-1 tvg-id="StarELTjonatan8
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304289
-#EXTINF:-1 tvg-id="StarELTjonatan9
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304288
-#EXTINF:-1 tvg-id="StarELTjonatan10
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304285
-#EXTINF:-1 tvg-id="StarELTjonatan11
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304284
-#EXTINF:-1 tvg-id="StarELTjonatan12
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304283
-#EXTINF:-1 tvg-id="StarELTjonatan13
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304281
-#EXTINF:-1 tvg-id="StarELTjonatan14
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304279
-#EXTINF:-1 tvg-id="StarELTjonatan15
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304278
-#EXTINF:-1 tvg-id="StarELTjonatan16
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304277
-#EXTINF:-1 tvg-id="StarELTjonatan17
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304279
-#EXTINF:-1 tvg-id="StarELTjonatan18
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304275
+#EXTINF:-1 tvg-id="StarELTjonatan19
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+http://51.81.93.29:8084/hls/d15.m3u8
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
 
 
 
