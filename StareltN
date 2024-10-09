@@ -195,8 +195,26 @@ https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 http://51.81.93.29:8084/hls/d15.m3u8
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
-
-
+#EXTINF:-1 tvg-id="StarELTdopCOLORVISION
+https://fl1002.bozztv.com/ssh101/0009/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="StarELTdopTELEANTILLA
+https://fl1002.bozztv.com/ssh101/0010/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="StarELTdopCANL21
+https://fl1002.bozztv.com/ssh101/rctvhd104/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="StarELTdopTELEUNIVERSO29
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+#EXTINF:-1 tvg-id="StarELTdopCDN37
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
+#EXTINF:-1 tvg-id="StarELTdopCANAL33
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_360.m3u8
+#EXTINF:-1 tvg-id="StarELTdopCHINOLATV33
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+#EXTINF:-1 tvg-id="StarELTdopTELEMUNDOPR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_360.m3u8
+#EXTINF:-1 tvg-id="StarELTdopMEGAVISION
+https://server2grupocam.com/megavision/MV/chunklist_w1563436424.m3u8
+#EXTINF:-1 tvg-id="StarELTdop55
+https://ss2.domint.net:3236/stv_str/supertv55/chunklist_w196859250.m3u8
 
 
 
